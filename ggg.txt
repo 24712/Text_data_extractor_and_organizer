@@ -1,0 +1,10 @@
+Date of birth:
+Location when created:
+Date of creation:
+Account Region:
+Email:
+City of the account:
+Username:
+Summoner Name:
+Password:
+Leveled by :
